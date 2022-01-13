@@ -116,15 +116,15 @@
 
 .bg-custom-1{
     height: 100vh;
-	background: linear-gradient(rgba(73,203,205, .3), rgba(73,203,205, .3)), url(/img/banner/banner.jpg) no-repeat center center/cover;   
+	background: linear-gradient(rgba(73,203,205, .3), rgba(73,203,205, .3)), url(img/banner/banner.jpg) no-repeat center center/cover;   
 }
 .bg-custom-2{
     height: 100vh;
-	background: linear-gradient(rgba(73,203,205, .3), rgba(73,203,205, .3)), url(/img/banner/banner-2.jpg) no-repeat center center/cover;   
+	background: linear-gradient(rgba(73,203,205, .3), rgba(73,203,205, .3)), url(img/banner/banner-2.jpg) no-repeat center center/cover;   
 }
 .bg-custom-3{
     height: 100vh;
-	background: linear-gradient(rgba(73,203,205, .3), rgba(73,203,205, .3)), url(/img/banner/banner-3.jpg) no-repeat center center/cover;   
+	background: linear-gradient(rgba(73,203,205, .3), rgba(73,203,205, .3)), url(img/banner/banner-3.jpg) no-repeat center center/cover;   
 }
 
 
@@ -466,7 +466,7 @@
 
 /************ contact ************/
 .contact-area{
-    background-image: url(/img/Contact/contact-bg.jpg);
+    background-image: url(img/Contact/contact-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
